@@ -68,3 +68,6 @@ resource "google_compute_instance" "bastion" {
     automatic_restart = false
   }
 }   
+
+
+#comment or new mesage
