@@ -75,3 +75,4 @@ resource "google_compute_instance" "bastion" {
     automatic_restart = false
   }
 }   
+Hello, I am Burulai!
