@@ -8,8 +8,13 @@ resource "google_service_account" "bastion" {
 }
 
 
+
 #This changes come from local
 # resource "google_compute_firewall" "bastion-ssh" {
+
+# Bekazar added this changes
+#resource "google_compute_firewall" "bastion-ssh" {
+
 #   name = format("%s-basstion-ssh", var.bastion_name)
 #   network = var.vpc_name
 #   direction = "INGRESS"
