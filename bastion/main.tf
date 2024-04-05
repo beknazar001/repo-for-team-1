@@ -75,3 +75,7 @@ resource "google_compute_instance" "bastion" {
     automatic_restart = false
   }
 }   
+   conflict branch #2
+
+#comment or new mesage
+#jgkghf
