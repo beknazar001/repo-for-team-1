@@ -79,3 +79,5 @@ resource "google_compute_instance" "bastion" {
 
 #comment or new mesage
 #jgkghf
+[jfsghfjghdfjsk]
+{jfkdghf}
