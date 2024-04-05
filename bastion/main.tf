@@ -81,3 +81,5 @@ resource "google_compute_instance" "bastion" {
 #jgkghf
 [jfsghfjghdfjsk]
 {jfkdghf}
+jgifjhg
+jgifdjg
