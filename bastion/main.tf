@@ -1,6 +1,7 @@
 locals {
     hostname = format("%s-bastion", var.bastion_name)
 }
+!
 
 resource "google_service_account" "bastion" {
   account_id = format("%s-bastion-sa", var.bastion_name)
